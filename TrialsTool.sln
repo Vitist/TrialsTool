@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrialsTool", "TrialsTool\TrialsTool.csproj", "{D9A8F790-7E20-462A-8EA4-BE0DC3A2EC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A8F790-7E20-462A-8EA4-BE0DC3A2EC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A8F790-7E20-462A-8EA4-BE0DC3A2EC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A8F790-7E20-462A-8EA4-BE0DC3A2EC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A8F790-7E20-462A-8EA4-BE0DC3A2EC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {443C418B-4D66-4A5C-9E37-A7E4F17ABC3A}
+	EndGlobalSection
+EndGlobal
