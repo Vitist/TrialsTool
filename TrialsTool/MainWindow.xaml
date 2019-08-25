@@ -6,9 +6,9 @@
         xmlns:local="clr-namespace:TrialsTool"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72">
-            Hello, WPF!
-        </TextBlock>
-    </Grid>
+    <DockPanel Margin="10">
+        <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10">
+            <Button Name="btnOpenFile" Click="BtnOpenFile_Click">Open file</Button>
+        </WrapPanel>
+    </DockPanel>
 </Window>
